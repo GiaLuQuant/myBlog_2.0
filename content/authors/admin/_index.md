@@ -41,13 +41,14 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Thank you for visiting my page. 
-
-I am an M.S student in the Department of Psychology at Sun Yat-sen University, advised by Prof. Zijun Ke. 
+Thank you for visiting my page. I am an M.S student in the Department of Psychology at Sun Yat-sen University, advised by Prof. Zijun Ke. 
 
 
-Working in [**Psychological Statistics**](https://en.wikipedia.org/wiki/Psychological_statistics), I am interested in [**Causal Inference**](https://en.wikipedia.org/wiki/Causal_inference) and [**Meta-analysis**](https://en.wikipedia.org/wiki/Meta-analysis), specifically in 
+**Research Interests** 
 
+Within [**Psychological Statistics**](https://en.wikipedia.org/wiki/Psychological_statistics), I am particularly interested in [**Causal Inference**](https://en.wikipedia.org/wiki/Causal_inference) and [**Meta-analysis**](https://en.wikipedia.org/wiki/Meta-analysis).
+
+Previsouly, I have done some work in
 - strengthing causality in mediation analysis
 - refining modeling approaches for experimental mediation
 - advancing mediation meta-analysis for clinical research

@@ -66,7 +66,6 @@ sections:
 
         - _Sep. 2023 - Jan. 2024_ Regression Analysis (2023), Sun Yat-sen University
 
-        - _Sep. 2018 - Jun. 2021_ Mathematics (volunteer), SOS Children's Village
 
         ## Awards 
         - The Psychometric Society Travel Award (2023).
@@ -80,7 +79,11 @@ sections:
         
         ## Part-time
 
+        - _Sep. 2018 - Jun. 2021_ Volunteer Teacher in Mathematics, SOS Children's Village
+
         - _Mar. 2017 - Dec. 2019_ English-Chinese Translator, Shenzhen Yimu Information Technology Co.
+        
+                
         
     design:
       columns: '2'
