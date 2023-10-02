@@ -45,7 +45,7 @@ sections:
 
 
     design:
-      columns: '2'
+      columns: '1'
 
       
   - block: markdown
@@ -85,24 +85,4 @@ sections:
     design:
       columns: '2'
 
-
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
 ---

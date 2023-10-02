@@ -54,10 +54,9 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
-
-I am an M.S student working in [**Psychological Statistics**](https://en.wikipedia.org/wiki/Psychological_statistics). 
+I am an M.S student working in [**Psychological Statistics**](https://en.wikipedia.org/wiki/Psychological_statistics), advised by Prof. Zijun Ke.
 
 My research interests revolve around [causal inference](https://en.wikipedia.org/wiki/Causal_inference) and [meta-analysis](https://en.wikipedia.org/wiki/Meta-analysis), specifically in the following areas
 
@@ -71,7 +70,11 @@ My research interests revolve around [causal inference](https://en.wikipedia.org
 - Publication Bias in Mediation Meta-analysis Based on Pretest-posttest-control-group Designs
 
 
-**Potential Future Directions:** Non-parametric models / High-dimensional Data analysis
+**Potential Future Directions:** 
+
+- Non-parametric models
+- High-dimensional Data analysis
+
 
 
 {style="text-align: justify;"}
