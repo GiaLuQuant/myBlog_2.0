@@ -6,9 +6,12 @@ title: Zhiming (Gia) Lu
 first_name: Zhiming
 last_name: Lu
 
-# Status emoji
-status:
-  icon: ☕️
+role: luzhm6@mail2.sysu.edu.cn
+social:
+
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/GiaLuQuant
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,10 +34,6 @@ Previsouly, I have done some work in
 Currently, I am working on
 
 - Publication Bias in Mediation Meta-analysis Based on Pretest-posttest-control-group Designs
-
-**Contact**
-[Email](luzhm6@mail2.sysu.edu.cn): luzhm6 [at] mail2 [dot] sysu [dot] edu [dot] cn
-[GitHub](github.com/GiaLuQuant/)
 
 
 {style="text-align: justify;"}
