@@ -9,7 +9,7 @@ appearance:
   theme_day: dark
   theme_night: true
   font: 'Native'
-  font_size: L
+  font_size: S
 
 
 
@@ -18,7 +18,7 @@ appearance:
 
 header:
   navbar:
-    enable: true
+    enable: false
     align: r
     show_logo: false
     show_language: false
@@ -44,6 +44,7 @@ features:
   avatar:
     gravatar: false
     shape: circle
+
 
 
 
