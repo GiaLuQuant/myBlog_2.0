@@ -14,32 +14,6 @@ status:
 superuser: true
 
 
-
-
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'luzhm6@mail2.sysu.edu.cn'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/GiaLuQuant
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  # - icon: cv
-  #  icon_pack: ai
-  #  link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
 ---
 Thank you for visiting my page. I am an M.S student in the Department of Psychology at Sun Yat-sen University, advised by Prof. Zijun Ke. 
 
@@ -54,9 +28,13 @@ Previsouly, I have done some work in
 - advancing mediation meta-analysis for clinical research
 
 
-**Currently Working On**
+Currently, I am working on
 
 - Publication Bias in Mediation Meta-analysis Based on Pretest-posttest-control-group Designs
+
+**Contact**
+[Email](luzhm6@mail2.sysu.edu.cn): luzhm6 [at] mail2 [dot] sysu [dot] edu [dot] cn
+[GitHub](github.com/GiaLuQuant/)
 
 
 {style="text-align: justify;"}
