@@ -18,7 +18,8 @@ superuser: true
 
 
 ---
-Thank you for visiting my page. I am an M.S student in the Department of Psychology at Sun Yat-sen University, advised by Prof. Zijun Ke. 
+
+Thank you for visiting my page. I am an M.S student in the Department of Psychology at Sun Yat-sen University, advised by Professor Zijun Ke. 
 
 
 **Research Interests** 
@@ -33,7 +34,7 @@ Previsouly, I have done some work in
 
 Currently, I am working on
 
-- Publication Bias in Mediation Meta-analysis Based on Pretest-posttest-control-group Designs
+- Publication Bias in Mediation Meta-analysis 
 
 
 {style="text-align: justify;"}
