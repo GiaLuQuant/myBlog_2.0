@@ -36,6 +36,6 @@ Currently, I am working on
 
 - Publication Bias in Mediation Meta-analysis 
 
-In the future, I may devote more efforts on High-dimensional Statistics
+
 
 {style="text-align: justify;"}

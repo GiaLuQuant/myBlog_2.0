@@ -20,6 +20,9 @@ sections:
       subtitle: 'Updated in Oct. 2023'
       text: |-
         ## Manuscripts Drafted
+        
+        * Expected to be submitted in Nov. 2023
+        
         - **Lu, Z.**, Ke, Z., Cheung, R., & Zhang, Q., (manuscript drafted) Synthesizing data from pretest-posttest-control-group designs in mediation meta-analysis
         
         - **Lu, Z.**, & Ke, Z., (manuscript drafted) A cautionary note on experimental mediation: Conception, modeling, and analysis
@@ -56,9 +59,9 @@ sections:
       text: |-
         ## Education
         
-        - _Sep. 2021 - Present_:   **Sun Yat-sen University**, M.S. in Psychology
+        - _Sep. 2021 - Present_   **Sun Yat-sen University**, M.S. in Psychology
 
-        - _Sep. 2018 - Jul. 2021_: **Qiqihar University**, B.E. in Civil Engineering 
+        - _Sep. 2018 - Jul. 2021_ **Qiqihar University**, B.E. in Civil Engineering 
 
         ## Teaching Assistant
 
