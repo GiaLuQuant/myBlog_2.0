@@ -21,8 +21,6 @@ sections:
       text: |-
         ## Manuscripts Drafted
         
-        (Expected to be submitted in Nov. 2023)
-        
         - **Lu, Z.**, Ke, Z., Cheung, R., & Zhang, Q., (manuscript drafted) Synthesizing data from pretest-posttest-control-group designs in mediation meta-analysis
         
         - **Lu, Z.**, & Ke, Z., (manuscript drafted) A cautionary note on experimental mediation: Conception, modeling, and analysis
