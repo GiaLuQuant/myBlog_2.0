@@ -31,7 +31,7 @@ sections:
        
         ## In Progress
        
-        - **Lu, Z.**, & Ke, Z. Publication bias in mediation meta-analysis based on pretest-posttest-control-group designs
+        - Publication bias in mediation meta-analysis based on pretest-posttest-control-group designs
         
         ## Conference Presentations 
         - **Lu, Z.**, & Ke, Z. (2023). _A New Causal Mediation Approach Based on Observational Mediation Modeling and Instrumental Variable Regression_. International Meeting of Psychometric Society, July, Maryland, USA. [[Abstract]](https://raw.githubusercontent.com/GiaLuQuant/myBlog/main/content/pdf/CausalMed_Abstract.pdf). [[Slides&speech]](https://raw.githubusercontent.com/GiaLuQuant/myBlog/main/content/pdf/IMPS2023_ExpMed_0726.pdf).
