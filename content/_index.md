@@ -70,6 +70,7 @@ sections:
 
         ## Awards 
         - The Psychometric Society Travel Award (2023).
+        - Sun Yat-sen University First Prize Scholarship (2023)
         - Sun Yat-sen University Second Prize Scholarship (2021 & 2022)
         
         ## Memberships
@@ -80,7 +81,7 @@ sections:
         
         ## Part-time
 
-        - _Sep. 2018 - Jun. 2021_ Volunteer Teacher in Mathematics, SOS Children's Village
+        - _Dec. 2018 - Dec. 2019_ Math Teacher (volunteer), SOS Children's Village
 
         - _Mar. 2017 - Dec. 2019_ English-Chinese Translator, Shenzhen Yimu Information Technology Co.
         
