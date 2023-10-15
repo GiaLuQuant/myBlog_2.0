@@ -25,7 +25,7 @@ sections:
         
         - **Lu, Z.**, & Ke, Z., (manuscript drafted) Establishing causality in the mediator-outcome relationship: The use of instrumental variable regression in experimental mediation
        
-        - **Lu, Z.**, & Ke, Z., (manuscript drafted) Two-factor designs reveal more than you think: A new perspective. 
+        - **Lu, Z.**, & Ke, Z., (manuscript drafted) Two-factor designs reveal more than you think: A perspective from experimental mediation. 
         
         - Ke, Z., Tan, X., & **Lu, Z.**, (manuscript drafted) Examining instrument relevance when there are multiple endogenous predictors: A new index.
        
