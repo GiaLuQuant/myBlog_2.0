@@ -23,7 +23,7 @@ sections:
         
         - **Lu, Z.**, Ke, Z., Cheung, R., & Zhang, Q., (submitted) Synthesizing data from pretest-posttest-control-group designs in mediation meta-analysis. Under review at _Structural Equation Modeling: A Multidisciplinary Journal_
         
-        - **Lu, Z.**, & Ke, Z., (manuscript drafted) A cautionary note on experimental mediation: Conception, modeling, and analysis
+        - **Lu, Z.**, & Ke, Z., (manuscript drafted) Establishing causality in the mediator-outcome relationship: Experimental mediation and the use of instrumental variable regression
        
         - **Lu, Z.**, & Ke, Z., (manuscript drafted) Two-factor designs reveal more than you think: A new perspective. 
         
