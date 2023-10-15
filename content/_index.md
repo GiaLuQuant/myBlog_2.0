@@ -21,7 +21,7 @@ sections:
       text: |-
         ## Manuscripts Drafted
         
-        - **Lu, Z.**, Ke, Z., Cheung, R., & Zhang, Q., (manuscript drafted) Synthesizing data from pretest-posttest-control-group designs in mediation meta-analysis
+        - **Lu, Z.**, Ke, Z., Cheung, R., & Zhang, Q., (submitted) Synthesizing data from pretest-posttest-control-group designs in mediation meta-analysis. Under review at _Structural Equation Modeling: A Multidisciplinary Journal_
         
         - **Lu, Z.**, & Ke, Z., (manuscript drafted) A cautionary note on experimental mediation: Conception, modeling, and analysis
        
