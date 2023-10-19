@@ -21,7 +21,7 @@ sections:
       text: |-
         ## Manuscripts Drafted
         
-        - **Lu, Z.**, Ke, Z., Cheung, R., & Zhang, Q., (submitted) Synthesizing data from pretest-posttest-control-group designs in mediation meta-analysis. Under review at _Structural Equation Modeling: A Multidisciplinary Journal_
+        - **Lu, Z.**, Ke, Z., Cheung, R. Y. M., & Zhang, Q., (submitted) Synthesizing data from pretest-posttest-control-group designs in mediation meta-analysis. Under review at _Structural Equation Modeling: A Multidisciplinary Journal_
         
         - **Lu, Z.**, & Ke, Z., (manuscript drafted) Establishing causality in the mediator-outcome relationship: The use of instrumental variable regression in experimental mediation
        
@@ -38,7 +38,7 @@ sections:
         
         - Ke, Z., Tan, X., & **Lu, Z.** (2023). _Examining Instrument Relevance when There are Multiple Endogenous Predictors: A new Index_. International Meeting of Psychometric Society, July, Maryland, USA. [[Abstract]](https://raw.githubusercontent.com/GiaLuQuant/myBlog/main/content/pdf/IVsem_Abstract.pdf).
         
-        - **Lu, Z.**, Ke, Z., Cheung, R., & Zhang, Q. (2023). _Synthesizing Data from Pre-posttest-control-group Designs in Mediation Meta-analysis._ The Annual Meeting of the International Society for Data Science and Analytics, July, Shanghai, China  [[Abstract]](https://raw.githubusercontent.com/GiaLuQuant/myBlog/main/content/pdf/MMA_Abstract.pdf). [[Slides&speech]](https://raw.githubusercontent.com/GiaLuQuant/myBlog/main/content/pdf/ICADS_MMA_0604.pdf).
+        - **Lu, Z.**, Ke, Z., Cheung, R. Y. M., & Zhang, Q. (2023). _Synthesizing Data from Pre-posttest-control-group Designs in Mediation Meta-analysis._ The Annual Meeting of the International Society for Data Science and Analytics, July, Shanghai, China  [[Abstract]](https://raw.githubusercontent.com/GiaLuQuant/myBlog/main/content/pdf/MMA_Abstract.pdf). [[Slides&speech]](https://raw.githubusercontent.com/GiaLuQuant/myBlog/main/content/pdf/ICADS_MMA_0604.pdf).
         
         ## Forum Presentations
         **Weekly Forum in Psychology in Sun Yat-sen University** _19 Sep. 2022, Guangzhou, China_  
