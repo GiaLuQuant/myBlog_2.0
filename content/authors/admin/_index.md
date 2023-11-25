@@ -24,7 +24,7 @@ Thank you for visiting my page. I am an M.S student in the Department of Psychol
 
 **Research Interests** 
 
-Within [**Psychological Statistics**](https://en.wikipedia.org/wiki/Psychological_statistics), I am particularly interested in [**Causal Inference**](https://en.wikipedia.org/wiki/Causal_inference) and [**Meta-analysis**](https://en.wikipedia.org/wiki/Meta-analysis).
+Within [**Quantitative Psychology**](https://en.wikipedia.org/wiki/Quantitative_psychology), I am particularly interested in [**Causal Inference**](https://en.wikipedia.org/wiki/Causal_inference) and [**Meta-analysis**](https://en.wikipedia.org/wiki/Meta-analysis).
 
 Previsouly, I have done some work in
 - strengthing causality in mediation analysis
