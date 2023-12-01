@@ -17,15 +17,15 @@ sections:
     id: pub
     content:
       title: Publications
-      subtitle: 'Updated in Oct. 2023'
+      subtitle: 'Updated in Nov. 2023'
       text: |-
         ## Manuscripts Drafted
         
-        - **Lu, Z.**, Ke, Z., Cheung, R. Y. M., & Zhang, Q., (submitted) Synthesizing data from pretest-posttest-control-group designs in mediation meta-analysis. Under review at _Structural Equation Modeling: A Multidisciplinary Journal_
+        - **Lu, Z.**, Ke, Z., Cheung, R. Y. M., & Zhang, Q., (under review) Synthesizing data from pretest-posttest-control-group designs in mediation meta-analysis. Under review at _Structural Equation Modeling: A Multidisciplinary Journal_
         
-        - **Lu, Z.**, & Ke, Z., (manuscript drafted) Establishing causality in the mediator-outcome relationship: The use of instrumental variable regression in experimental mediation
+        - **Lu, Z.**, & Ke, Z., (submitted) Strengthening causality in the mediator-outcome relationship: The use of instrumental variable regression in experimental mediation
        
-        - **Lu, Z.**, & Ke, Z., (manuscript drafted) Two-factor designs reveal more than you think: A perspective from experimental mediation. 
+        - **Lu, Z.**, & Ke, Z., (submitted) Two-factor designs reveal more than you think: A perspective from experimental mediation. 
         
         - Ke, Z., Tan, X., & **Lu, Z.**, (manuscript drafted) Examining instrument relevance when there are multiple endogenous predictors: A new index.
        
